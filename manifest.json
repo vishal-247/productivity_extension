@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Timer New Tab",
+    "version": "1.0",
+    "description": "Displays a user-set timer in a new tab",
+    "chrome_url_overrides": {
+      "newtab": "newtab.html"
+    },
+    "permissions": [
+      "storage"
+    ]
+
+  }
+  
